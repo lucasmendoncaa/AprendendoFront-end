@@ -1,1 +1,1 @@
-Projeto criado para mostrar a minha carreira no aprendizado de Front End.
+Projeto criado para mostrar meu desenvolvimento no aprendizado de Front End.
